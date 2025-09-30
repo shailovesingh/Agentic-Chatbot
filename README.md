@@ -2,8 +2,6 @@
 
 This repository contains code for an agentic chatbot project — an AI system made of agents that can use tools, call functions, and orchestrate multi-step workflows to answer user queries and perform tasks.
 
-> _This README was generated based on the repository at https://github.com/shailovesingh/Agentic-Chatbot._
-
 
 ## Table of Contents
 - [Overview](#overview)
